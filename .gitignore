@@ -1,0 +1,13 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+build/
+dist/
+
+# 환경 설정
+venv/
+.env
+
+# 기타
+*.csv 
+.DS_Store
